@@ -11,7 +11,7 @@
 
 ### Projetos
 
-![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PrimoLuige&repo=pedrogithub2406.github.io&theme=dark)
+![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PrimoLuige&repo=Cartorioebac.github.io&theme=dark)
 
 
 ### Linguagens utilizadas
