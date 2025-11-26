@@ -6,15 +6,18 @@
 
 ### Detalhes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrimoLuige&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PrimoLuige&show_icons=true&theme=dark)
+
 
 ### Projetos
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrimoLuige&repo=pedrogithub2406.github.io&theme=dark)
+![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PrimoLuige&repo=pedrogithub2406.github.io&theme=dark)
+
 
 ### Linguagens utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimoLuige&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PrimoLuige&layout=compact&theme=dark)
+
 
 
 ### Contatos
