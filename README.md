@@ -1,4 +1,6 @@
-### Olá 👋 ###### Sobre o Primo 3 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
+### Olá👋 
+
+###### Sobre o Primo 3 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
 
 ### Detalhes
 
